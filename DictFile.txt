@@ -1,0 +1,4 @@
+Az-Eng
+Az-Deutsch
+Az-Rus
+Eng-Az
